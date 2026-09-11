@@ -6,3 +6,6 @@ Thumbs.db
 desktop.ini
 *.zip
 *.json
+# Ignorar planilhas de testes
+tests/*.xlsx
+tests/*.csv
